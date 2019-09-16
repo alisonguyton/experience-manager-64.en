@@ -103,7 +103,7 @@ npm module: [@adobe/cq-react-editable-components](https://www.npmjs.com/package/
 
 #### Angular {#angular}
 
-npm module: coming soon
+npm module: [@adobe/cq-angular-editable-components](https://www.npmjs.com/package/@adobe/cq-angular-editable-components)
 
 ## Main Services and Components {#main-services-and-components}
 
